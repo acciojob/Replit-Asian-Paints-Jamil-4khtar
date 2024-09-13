@@ -1,6 +1,6 @@
 //your JS code here. If required.
 let change_color = document.getElementById("change_button")
-let reset = document.getElementById("Reset");
+let reset = document.getElementById("reset_button");
 
 change_color.addEventListener("click", (e) => {
     e.preventDefault()
